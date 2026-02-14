@@ -4,15 +4,15 @@ A simple desktop app to quickly check whether a TCP port is reachable (OPEN/CLOS
 
 ## Features
 
-- ✅ Check many hosts/ports at once using a thread pool
-- ✅ Status chips: `OPEN (latency)`, `CLOSED`, `TIMEOUT`, `DNS_FAIL`, `ERROR`
-- ✅ Add targets in-app with **+**
-- ✅ Remove targets with **✕**
-- ✅ Settings UI:
+- Check many hosts/ports at once using a thread pool
+- Status chips: `OPEN (latency)`, `CLOSED`, `TIMEOUT`, `DNS_FAIL`, `ERROR`
+- Add targets in-app with **+**
+- Remove targets with **✕**
+- Settings UI:
   - Timeout (seconds)
   - Max workers (concurrency)
   - Auto refresh (seconds; `0` disables)
-- ✅ Automatically saves targets + settings to an ini file
+- Automatically saves targets + settings to an ini file
 
 ## Download (Windows)
 
