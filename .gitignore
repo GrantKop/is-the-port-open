@@ -1,0 +1,7 @@
+*.yml
+*.ini
+*.spec
+.vscode/
+__pycache__/
+dist/
+build/
